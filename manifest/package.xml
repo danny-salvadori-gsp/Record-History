@@ -4,11 +4,21 @@
         <members>Field_History__c</members>
         <name>CustomObject</name>
     </types>
-    <!--
     <types>
-        <members>*</members>
+        <members>Account_History</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
+        <members>AccountTriggerHandler</members>
+        <members>Historian</members>
+        <members>HistorianTest</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>Field_History__c</members>
+        <name>CustomTab</name>
+    </types>
+    <!--
     <types>
         <members>*</members>
         <name>ApexComponent</name>
@@ -20,10 +30,6 @@
     <types>
         <members>*</members>
         <name>ApexTestSuite</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>ApexTrigger</name>
     </types>
     <types>
         <members>*</members>
