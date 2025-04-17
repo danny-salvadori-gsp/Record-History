@@ -6,10 +6,12 @@
     </types>
     <types>
         <members>Account_History</members>
+        <members>Contact_History</members>
         <name>ApexTrigger</name>
     </types>
     <types>
         <members>AccountTriggerHandler</members>
+        <members>ContactTriggerHandler</members>
         <members>Historian</members>
         <members>HistorianTest</members>
         <name>ApexClass</name>
